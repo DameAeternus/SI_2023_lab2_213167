@@ -2,6 +2,7 @@
 
 Control flow graph:
 Фотографијата е дадена во кодот.
+![SILab2 vpd](https://github.com/DameAeternus/SI_2023_lab2_213167/assets/87820853/51e3cc9a-4e69-46c7-ba03-e75195f72af2)
 
 Цикломатската комплексност на кодот е: 7
 Го добив така што E-V+2 (каде Е=33 и V= 28)
