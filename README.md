@@ -1,7 +1,7 @@
 # Дамјан Додевски, бр. на индекс 213167 
 
 Control flow graph:
-![SILab2 vpd](https://github.com/DameAeternus/SI_2023_lab2_213167/assets/87820853/51e3cc9a-4e69-46c7-ba03-e75195f72af2)
+
 ![SILab2 vpd](https://github.com/DameAeternus/SI_2023_lab2_213167/assets/87820853/d0a5f824-9051-4ab9-be68-f8bbcd262b1b)
 
 Цикломатската комплексност на кодот е: 7
